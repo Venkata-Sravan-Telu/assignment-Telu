@@ -42,3 +42,40 @@ In this section, I'm going to recommend 4 cities to visit.
 > You must be the change you wish to see in the world *Mahatma Gandhi*
 
 > Strive not to be a success, but rather to be of value *Albert Einstein*
+
+---
+
+## COde fencing
+
+> How to safely store SVGs in a database and deliver as downloads?
+
+[Stack overflow](https://stackoverflow.com/questions/73616108/how-to-safely-store-svgs-in-a-database-and-deliver-as-downloads)
+
+```
+<svg width="100%" height="100%">
+  
+  <!-- Create mask that we'll use to define a slight gradient -->
+  <mask maskUnits="userSpaceOnUse" id="fade">
+    <!-- Here's that slight gradient -->
+     	<linearGradient id="gradient" x1="0" y1="0" x2="0" y2="100%">
+      <stop offset="0" style="stop-color: #FFFFFF"></stop>
+      <stop offset="1" style="stop-color: #000000"></stop>
+    </linearGradient>
+    <!-- The canvas for our mask -->
+    <rect fill="url(#gradient)" width="100%" height="100%"></rect>
+  </mask>
+    
+  <!-- Let's define the pattern -->
+  <!-- The width and height should be double the circle radius we plan to use -->
+  <pattern id="pattern-circles" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <!-- Now let's draw the circle -->
+    <!-- We're going to define the `fill` in the CSS for flexible use -->
+    <circle mask="url(#fade)" cx="20" cy="20" r="20"></circle>
+  </pattern>
+  <!-- The canvas with our applied pattern -->
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-circles)"></rect>
+  
+</svg>
+```
+
+[linktocsstricks](https://css-tricks.com/snippets/svg/svg-patterns/)
