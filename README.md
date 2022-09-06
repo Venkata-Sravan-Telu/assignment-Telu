@@ -21,3 +21,16 @@ If you want to visit near by places you can go to
 
 
 **[AboutMe](https://github.com/Venkata-Sravan-Telu/assignment-Telu/blob/main/AboutMe.md)**
+
+---
+
+## Tables
+
+In this section, I'm going to recommend 4 cities to visit.
+
+| City | Important Location | Amount of time |
+| :--- |    ---             |   ---          |
+|New Delhi | Qutub Minor    |   1 day        |
+|Hyderabad | Charminar      |   1 day        |
+|Chennai   |  Beach         |   2 days      |
+|Jaipur    |    Forts       |   3 days      |
