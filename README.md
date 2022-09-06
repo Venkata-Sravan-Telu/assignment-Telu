@@ -39,6 +39,6 @@ In this section, I'm going to recommend 4 cities to visit.
 
 ## Quote 
 
-> You must be the change you wish to see in the world     *Mahatma Gandhi*
+> You must be the change you wish to see in the world *Mahatma Gandhi*
 
-> Strive not to be a success, but rather to be of value     *Albert Einstein*
+> Strive not to be a success, but rather to be of value *Albert Einstein*
