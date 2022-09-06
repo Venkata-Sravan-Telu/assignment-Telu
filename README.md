@@ -34,3 +34,11 @@ In this section, I'm going to recommend 4 cities to visit.
 |Hyderabad | Charminar      |   1 day        |
 |Chennai   |  Beach         |   2 days      |
 |Jaipur    |    Forts       |   3 days      |
+
+---
+
+## Quote 
+
+> You must be the change you wish to see in the world *Mahatma Gandhi*
+
+> Strive not to be a success, but rather to be of value *Albert Einstein*
