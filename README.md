@@ -6,7 +6,7 @@ This is a museum **founded in 1814**. This museum has unique artifacts of **mugh
 
 ---
 
-Travel Directions
+## Travel Directions
 
 The nearest airport to the museum is Netaji Subhash Chandra Bose International Airport
 The steps to arrive to Indian Museum Kolkata are
