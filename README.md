@@ -45,7 +45,7 @@ In this section, I'm going to recommend 4 cities to visit.
 
 ---
 
-## COde fencing
+## Code fencing
 
 > How to safely store SVGs in a database and deliver as downloads?
 
